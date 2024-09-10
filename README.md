@@ -3,8 +3,9 @@ Online learning course
 
 Vue.js front - PHP back
 
+This website offers a place to learn with a user friendly and simple UI as well as an entertaining aspect with the help of games and fun quizes.
+
 -Different levels of users:
---Educator ?
 --Stundent
 --Admin
 
@@ -27,3 +28,4 @@ Vue.js front - PHP back
 -Feedback system.
 
 -Live communication with admin or staff  ?
+
